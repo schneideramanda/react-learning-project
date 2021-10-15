@@ -47,6 +47,10 @@ input {
   margin: 0 auto;
 }
 
+.mainContainer {
+  margin-top: 2rem;
+}
+
 a {
   text-decoration: none;
   color: #333;
